@@ -20,6 +20,11 @@ a, link {
   color: #762239
 }
 
-a, hover {
+a; hover {
   color: #381f1a
+}
+
+figcaption {
+  font-style: italic;
+  text-align: center;
 }
