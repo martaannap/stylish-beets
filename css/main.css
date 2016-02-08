@@ -12,16 +12,15 @@ header {
   font-family: 'PT Sans', sans-serif;
 }
 
-header li {
-  list-style-type:none;
+header nav ol {
+  list-style-type: none;
 
 }
-
-a, link {
+a:link {
   color: #762239
 }
 
-a; hover {
+a:hover {
   color: #381f1a
 }
 
@@ -48,7 +47,7 @@ h2 {
   color: #421534;
 }
 
-ol li {
+main ol li {
   list-style: lower-greek;
 }
 
