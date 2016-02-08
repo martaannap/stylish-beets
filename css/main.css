@@ -37,3 +37,16 @@ blockquote {
   font-size: 1.5rem;
   font-style: italic;
 }
+
+cite {
+  font-size: .75rem;
+}
+
+h2 {
+  font-family: "PT Sans", sans-serif;
+  color: #421534;
+}
+
+ol li {
+  list-style: lower-greek;
+}
