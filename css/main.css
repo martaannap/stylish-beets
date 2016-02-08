@@ -1,14 +1,25 @@
 html {
   background-color: #c9b5ae;
   font-family: 'PT Serif', serif;
-  }
+}
 
+img {
+  width: 100%;
+}
 
-  img{
-    width: 100%;
-  }
+header {
+  color: #421534;
+  font-family: 'PT Sans', sans-serif;
+}
 
-  h1{
-    color: #421534;
-    font-family: 'PT Sans', sans-serif;
-  }
+header ul{
+  list-style-type:none
+}
+
+a, link {
+  color: #762239
+}
+
+a, hover {
+  color: #381f1a
+}
