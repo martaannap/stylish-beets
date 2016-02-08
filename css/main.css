@@ -12,8 +12,9 @@ header {
   font-family: 'PT Sans', sans-serif;
 }
 
-header ul{
-  list-style-type:none
+header li {
+  list-style-type:none;
+
 }
 
 a, link {
@@ -49,4 +50,16 @@ h2 {
 
 ol li {
   list-style: lower-greek;
+}
+
+h2 + p {
+  font-style: italic;
+}
+
+dt {
+  font-weight: bold;
+}
+
+h2 + ul {
+  list-style-type: circle;
 }
